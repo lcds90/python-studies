@@ -12,3 +12,9 @@
 
 
 Adapter é um padrão de projeto estrutural, que permite que objetos incompatíveis colaborem. O Adapter atua como um wrapper entre dois objetos. Ele captura chamadas para um objeto e as transforma em formato e interface reconhecíveis pelo segundo objeto.
+
+* * *
+
+# Strategy
+
+Strategy é um padrão de design comportamental que permite definir uma família de algoritmos, colocar cada um deles em uma classe separada e tornar seus objetos intercambiáveis.
