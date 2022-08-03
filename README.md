@@ -10,3 +10,5 @@
 
 # Adapter
 
+
+Adapter é um padrão de projeto estrutural, que permite que objetos incompatíveis colaborem. O Adapter atua como um wrapper entre dois objetos. Ele captura chamadas para um objeto e as transforma em formato e interface reconhecíveis pelo segundo objeto.
