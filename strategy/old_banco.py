@@ -17,9 +17,9 @@ class DebitoAutomatico:
             # Codigo especifico do Bradesco (exemplo)
             print("Sucesso!")
         # ... + 150 bancos...
-        elif banco == "Caixa":
-            # Codigo especifico da Caixa (exemplo)
-            print("Efetuado com sucesso, Caixa Agradece!")
+        # elif banco == "Caixa":
+        #     # Codigo especifico da Caixa (exemplo)
+        #     print("Efetuado com sucesso, Caixa Agradece!")
 
 
 DebitoAutomatico.debitar(120, 123, "itau")
