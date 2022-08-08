@@ -1,0 +1,26 @@
+<mxfile host="65bd71144e">
+    <diagram id="C7eascBAxRNwq3ehPOBQ" name="Array">
+        <mxGraphModel dx="749" dy="304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="100" math="0" shadow="0">
+            <root>
+                <mxCell id="kybbMJsp6Ycq3lY1yTiz-0"/>
+                <mxCell id="kybbMJsp6Ycq3lY1yTiz-1" parent="kybbMJsp6Ycq3lY1yTiz-0"/>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="puM4lxkPwNkk5BZopA4-" name="Listas Encadeadas">
+        <mxGraphModel dx="749" dy="304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="uoODf_gWRAuLu1-m_Ilb" name="Linked List">
+        <mxGraphModel dx="749" dy="304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="100" math="0" shadow="0">
+            <root>
+                <mxCell id="dYf65ooBtIjs9_IWS3Vn-0"/>
+                <mxCell id="dYf65ooBtIjs9_IWS3Vn-1" parent="dYf65ooBtIjs9_IWS3Vn-0"/>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
